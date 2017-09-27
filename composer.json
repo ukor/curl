@@ -1,0 +1,14 @@
+{
+    "name": "ukorjidechi/curl_helper",
+    "description": "Light cURL helper class",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ukor Jidechi Ekundayo",
+            "email": "ukorjidechi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
