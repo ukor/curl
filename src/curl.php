@@ -4,7 +4,7 @@
  * Date: 8/27/17, Time: 8:27 AM
  */
 
-namespace ukorJidechi\curl_helper;
+namespace ukorJidechi\curl;
 
 /**
  * Helper class for cURL
